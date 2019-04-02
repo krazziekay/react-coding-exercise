@@ -16,34 +16,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Eora%201900x950px.jpg?itok=8qc5PjdT",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Eora%201900x950px.jpg?itok=8qc5PjdT",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Eora%201900x950px.jpg?itok=LDX6l3_I",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Eora%201900x950px.jpg?itok=LDX6l3_I",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Eora%201900x950px.jpg?itok=9eZTVFfW",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Eora%201900x950px.jpg?itok=9eZTVFfW",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Eora%201900x950px.jpg?itok=cESylEbD",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Eora%201900x950px.jpg?itok=KeeoVVvn",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Eora%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -82,34 +67,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Nacre%201900x950px.jpg?itok=llnk1qc7",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Nacre%201900x950px.jpg?itok=llnk1qc7",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Nacre%201900x950px.jpg?itok=UXAteRAc",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Nacre%201900x950px.jpg?itok=UXAteRAc",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Nacre%201900x950px.jpg?itok=72-EH0h9",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Nacre%201900x950px.jpg?itok=72-EH0h9",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Nacre%201900x950px.jpg?itok=MR4E9vlb",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Nacre%201900x950px.jpg?itok=M1Q8XaEH",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Nacre%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -148,34 +118,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Midnigth%20Sun%201900x950px.jpg?itok=keWTn1I_",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Midnigth%20Sun%201900x950px.jpg?itok=keWTn1I_",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Midnigth%20Sun%201900x950px.jpg?itok=p6cc8tkX",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Midnigth%20Sun%201900x950px.jpg?itok=p6cc8tkX",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Midnigth%20Sun%201900x950px.jpg?itok=Q--EblyX",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Midnigth%20Sun%201900x950px.jpg?itok=Q--EblyX",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Midnigth%20Sun%201900x950px.jpg?itok=iC1CLfQe",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Midnigth%20Sun%201900x950px.jpg?itok=6AO-rSwb",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Midnigth%20Sun%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -214,34 +169,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Skylark%201900x950px_0.jpg?itok=fnZmAQ_n",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Skylark%201900x950px_0.jpg?itok=fnZmAQ_n",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Skylark%201900x950px_0.jpg?itok=vr1CCYF8",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Skylark%201900x950px_0.jpg?itok=vr1CCYF8",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Skylark%201900x950px_0.jpg?itok=BiNMVySm",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Skylark%201900x950px_0.jpg?itok=BiNMVySm",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Skylark%201900x950px_0.jpg?itok=ydjhj7kR",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Skylark%201900x950px_0.jpg?itok=slc61EGv",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Skylark%201900x950px_0.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -280,34 +220,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Virtual%20Vibrations%201900x950px.jpg?itok=5-TvD9SA",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Virtual%20Vibrations%201900x950px.jpg?itok=5-TvD9SA",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Virtual%20Vibrations%201900x950px.jpg?itok=h528wX-7",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Virtual%20Vibrations%201900x950px.jpg?itok=h528wX-7",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Virtual%20Vibrations%201900x950px.jpg?itok=1QBxV5Ft",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Virtual%20Vibrations%201900x950px.jpg?itok=1QBxV5Ft",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Virtual%20Vibrations%201900x950px.jpg?itok=BK43_bVI",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Virtual%20Vibrations%201900x950px.jpg?itok=kujz4SR5",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Virtual%20Vibrations%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -346,34 +271,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Beautiful%20and%20Dangerous%201900x950px.jpg?itok=cGBvXDG0",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Beautiful%20and%20Dangerous%201900x950px.jpg?itok=cGBvXDG0",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Beautiful%20and%20Dangerous%201900x950px.jpg?itok=jkXy3GFk",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Beautiful%20and%20Dangerous%201900x950px.jpg?itok=jkXy3GFk",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Beautiful%20and%20Dangerous%201900x950px.jpg?itok=nz1NynGk",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Beautiful%20and%20Dangerous%201900x950px.jpg?itok=nz1NynGk",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Beautiful%20and%20Dangerous%201900x950px.jpg?itok=rXzyHf05",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Beautiful%20and%20Dangerous%201900x950px.jpg?itok=dqnG0u3i",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Beautiful%20and%20Dangerous%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -412,34 +322,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Hyperweb%201900x950px.jpg?itok=ZEbTGc8b",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Hyperweb%201900x950px.jpg?itok=ZEbTGc8b",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Hyperweb%201900x950px.jpg?itok=FIojMPM_",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Hyperweb%201900x950px.jpg?itok=FIojMPM_",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Hyperweb%201900x950px.jpg?itok=LdOjSXx5",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Hyperweb%201900x950px.jpg?itok=LdOjSXx5",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Hyperweb%201900x950px.jpg?itok=EGHJWYUX",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Hyperweb%201900x950px.jpg?itok=BH6CM8mc",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Hyperweb%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -478,34 +373,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Fantastic%20Oceans.jpg?itok=j8MECUfV",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Fantastic%20Oceans.jpg?itok=j8MECUfV",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Fantastic%20Oceans.jpg?itok=J0RQ-itB",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Fantastic%20Oceans.jpg?itok=J0RQ-itB",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Fantastic%20Oceans.jpg?itok=_TR1JgNm",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Fantastic%20Oceans.jpg?itok=_TR1JgNm",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Fantastic%20Oceans.jpg?itok=ysAi9UOl",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Fantastic%20Oceans.jpg?itok=W1Ui2Ixh",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Fantastic%20Oceans.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -543,34 +423,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Luna%20Park%201900x950px.jpg?itok=VG4lVCun",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Luna%20Park%201900x950px.jpg?itok=VG4lVCun",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Luna%20Park%201900x950px.jpg?itok=uEx4PmNl",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Luna%20Park%201900x950px.jpg?itok=uEx4PmNl",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Luna%20Park%201900x950px.jpg?itok=1qTABPN6",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Luna%20Park%201900x950px.jpg?itok=1qTABPN6",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Luna%20Park%201900x950px.jpg?itok=3-_CK3gv",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Luna%20Park%201900x950px.jpg?itok=y8FMBz-4",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Luna%20Park%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -608,34 +473,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Illuminosaurus%201900x950px.jpg?itok=CeAdMLB4",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Illuminosaurus%201900x950px.jpg?itok=CeAdMLB4",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Illuminosaurus%201900x950px.jpg?itok=wWo8r1rq",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Illuminosaurus%201900x950px.jpg?itok=wWo8r1rq",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Illuminosaurus%201900x950px.jpg?itok=VYqtI0CY",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Illuminosaurus%201900x950px.jpg?itok=VYqtI0CY",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Illuminosaurus%201900x950px.jpg?itok=FYdUujux",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Illuminosaurus%201900x950px.jpg?itok=RSke1HYf",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Illuminosaurus%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -674,34 +524,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/How%20Many%20Light%20Bulbs%201900x950px.jpg?itok=tIJGDFfI",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/How%20Many%20Light%20Bulbs%201900x950px.jpg?itok=tIJGDFfI",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/How%20Many%20Light%20Bulbs%201900x950px.jpg?itok=JdJOJQmG",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/How%20Many%20Light%20Bulbs%201900x950px.jpg?itok=JdJOJQmG",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/How%20Many%20Light%20Bulbs%201900x950px.jpg?itok=HhjnRddu",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/How%20Many%20Light%20Bulbs%201900x950px.jpg?itok=HhjnRddu",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/How%20Many%20Light%20Bulbs%201900x950px.jpg?itok=Dg4TwFtd",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/How%20Many%20Light%20Bulbs%201900x950px.jpg?itok=Scz12XyO",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/How%20Many%20Light%20Bulbs%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -740,34 +575,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Earth%201900x950px.jpg?itok=Dmh5btpa",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Earth%201900x950px.jpg?itok=Dmh5btpa",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Earth%201900x950px.jpg?itok=I9q9jTqv",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Earth%201900x950px.jpg?itok=I9q9jTqv",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Earth%201900x950px.jpg?itok=BF7umSbu",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Earth%201900x950px.jpg?itok=BF7umSbu",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Earth%201900x950px.jpg?itok=2LdEXqHM",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Earth%201900x950px.jpg?itok=axPTPmR5",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Earth%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -806,34 +626,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Ballpit%201900x950px.jpg?itok=ki0dwmGO",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Ballpit%201900x950px.jpg?itok=ki0dwmGO",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Ballpit%201900x950px.jpg?itok=xP8xos7g",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Ballpit%201900x950px.jpg?itok=xP8xos7g",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Ballpit%201900x950px.jpg?itok=XVtIJcJD",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Ballpit%201900x950px.jpg?itok=XVtIJcJD",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Ballpit%201900x950px.jpg?itok=zsmOfJwm",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Ballpit%201900x950px.jpg?itok=4Rirs9A0",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Ballpit%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -872,34 +677,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Living%20Lights%201900x950px.jpg?itok=YSF0GKh-",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Living%20Lights%201900x950px.jpg?itok=YSF0GKh-",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Living%20Lights%201900x950px.jpg?itok=xQnEQqRh",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Living%20Lights%201900x950px.jpg?itok=xQnEQqRh",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Living%20Lights%201900x950px.jpg?itok=AuWtXyme",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Living%20Lights%201900x950px.jpg?itok=AuWtXyme",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Living%20Lights%201900x950px.jpg?itok=KWpnG-Ro",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Living%20Lights%201900x950px.jpg?itok=95mvYZGr",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Living%20Lights%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -938,34 +728,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Phtonic%20State%201900x950px.jpg?itok=V9Ek62w5",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Phtonic%20State%201900x950px.jpg?itok=V9Ek62w5",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Phtonic%20State%201900x950px.jpg?itok=W5WI3aWv",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Phtonic%20State%201900x950px.jpg?itok=W5WI3aWv",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Phtonic%20State%201900x950px.jpg?itok=EnCfBPf-",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Phtonic%20State%201900x950px.jpg?itok=EnCfBPf-",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Phtonic%20State%201900x950px.jpg?itok=Aukl9g2Y",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Phtonic%20State%201900x950px.jpg?itok=Zm1_I9kY",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Phtonic%20State%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -1004,34 +779,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Snuggle%20Pot%20and%20Cuddle%20Pie%201900x950px.jpg?itok=t0P4xXLw",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Snuggle%20Pot%20and%20Cuddle%20Pie%201900x950px.jpg?itok=t0P4xXLw",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Snuggle%20Pot%20and%20Cuddle%20Pie%201900x950px.jpg?itok=A-_5ywuy",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Snuggle%20Pot%20and%20Cuddle%20Pie%201900x950px.jpg?itok=A-_5ywuy",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Snuggle%20Pot%20and%20Cuddle%20Pie%201900x950px.jpg?itok=8AL3zVWa",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Snuggle%20Pot%20and%20Cuddle%20Pie%201900x950px.jpg?itok=8AL3zVWa",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Snuggle%20Pot%20and%20Cuddle%20Pie%201900x950px.jpg?itok=4WF7QkBI",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Snuggle%20Pot%20and%20Cuddle%20Pie%201900x950px.jpg?itok=KHh7u_TV",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Snuggle%20Pot%20and%20Cuddle%20Pie%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -1070,34 +830,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Harmony%20Valley%201900x950px.jpg?itok=zE0xem-c",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Harmony%20Valley%201900x950px.jpg?itok=zE0xem-c",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Harmony%20Valley%201900x950px.jpg?itok=BCqYDEPZ",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Harmony%20Valley%201900x950px.jpg?itok=BCqYDEPZ",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Harmony%20Valley%201900x950px.jpg?itok=1f_2rwhH",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Harmony%20Valley%201900x950px.jpg?itok=1f_2rwhH",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Harmony%20Valley%201900x950px.jpg?itok=RvJAV0AG",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Harmony%20Valley%201900x950px.jpg?itok=KozPPZEm",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Harmony%20Valley%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -1136,34 +881,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Amex%201900x950px.jpg?itok=OMzOIHs1",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Amex%201900x950px.jpg?itok=OMzOIHs1",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Amex%201900x950px.jpg?itok=GKAAz1SC",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Amex%201900x950px.jpg?itok=GKAAz1SC",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Amex%201900x950px.jpg?itok=yMFGHTG3",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Amex%201900x950px.jpg?itok=yMFGHTG3",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Amex%201900x950px.jpg?itok=xy_itHQy",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Amex%201900x950px.jpg?itok=Ejuo6E6g",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Amex%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -1201,34 +931,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Ember%201900x950px.jpg?itok=m3jXJWtz",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Ember%201900x950px.jpg?itok=m3jXJWtz",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Ember%201900x950px.jpg?itok=wt-4HTGT",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Ember%201900x950px.jpg?itok=wt-4HTGT",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Ember%201900x950px.jpg?itok=13AXcoPi",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Ember%201900x950px.jpg?itok=13AXcoPi",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Ember%201900x950px.jpg?itok=WBu5rjn_",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Ember%201900x950px.jpg?itok=q8xx5GZg",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Ember%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -1267,34 +982,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Nanometres%201900x950px.jpg?itok=J149oTpN",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Nanometres%201900x950px.jpg?itok=J149oTpN",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Nanometres%201900x950px.jpg?itok=gXe1F1-Z",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Nanometres%201900x950px.jpg?itok=gXe1F1-Z",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Nanometres%201900x950px.jpg?itok=X9sz61ci",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Nanometres%201900x950px.jpg?itok=X9sz61ci",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Nanometres%201900x950px.jpg?itok=mKLScOjZ",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Nanometres%201900x950px.jpg?itok=q25tQywx",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Nanometres%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -1333,34 +1033,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Garden%20of%20Sweeties%201900x950px.jpg?itok=THToPOQn",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Garden%20of%20Sweeties%201900x950px.jpg?itok=THToPOQn",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Garden%20of%20Sweeties%201900x950px.jpg?itok=gNcXzOBe",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Garden%20of%20Sweeties%201900x950px.jpg?itok=gNcXzOBe",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Garden%20of%20Sweeties%201900x950px.jpg?itok=wl6MwiDF",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Garden%20of%20Sweeties%201900x950px.jpg?itok=wl6MwiDF",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Garden%20of%20Sweeties%201900x950px.jpg?itok=q-wd1taO",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Garden%20of%20Sweeties%201900x950px.jpg?itok=4L1WEO3v",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Garden%20of%20Sweeties%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -1399,34 +1084,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Synergy%201900x950px.jpg?itok=mJP5p6IS",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Synergy%201900x950px.jpg?itok=mJP5p6IS",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Synergy%201900x950px.jpg?itok=G86hm8Mi",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Synergy%201900x950px.jpg?itok=G86hm8Mi",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Synergy%201900x950px.jpg?itok=lhXTr3Xl",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Synergy%201900x950px.jpg?itok=lhXTr3Xl",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Synergy%201900x950px.jpg?itok=en2PWYvU",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Synergy%201900x950px.jpg?itok=Ty-1bHLU",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Synergy%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -1465,34 +1135,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Fugu%201900x950px.jpg?itok=QN3cdCJB",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Fugu%201900x950px.jpg?itok=QN3cdCJB",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Fugu%201900x950px.jpg?itok=5l5nBPtB",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Fugu%201900x950px.jpg?itok=5l5nBPtB",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Fugu%201900x950px.jpg?itok=Tw29CEpe",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Fugu%201900x950px.jpg?itok=Tw29CEpe",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Fugu%201900x950px.jpg?itok=52ksc9VS",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Fugu%201900x950px.jpg?itok=3V5ilfnE",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Fugu%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -1531,34 +1186,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Parrot%20Party%201900x950px.jpg?itok=Yq38llab",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Parrot%20Party%201900x950px.jpg?itok=Yq38llab",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Parrot%20Party%201900x950px.jpg?itok=hzdFR4OX",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Parrot%20Party%201900x950px.jpg?itok=hzdFR4OX",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Parrot%20Party%201900x950px.jpg?itok=A5aavYcC",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Parrot%20Party%201900x950px.jpg?itok=A5aavYcC",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Parrot%20Party%201900x950px.jpg?itok=qdC7sJ_Y",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Parrot%20Party%201900x950px.jpg?itok=b8AJbNl5",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Parrot%20Party%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -1597,34 +1237,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Wish%20Happiness%201900x950px.jpg?itok=55QgnxBg",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Wish%20Happiness%201900x950px.jpg?itok=55QgnxBg",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Wish%20Happiness%201900x950px.jpg?itok=QhtEN6Ov",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Wish%20Happiness%201900x950px.jpg?itok=QhtEN6Ov",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Wish%20Happiness%201900x950px.jpg?itok=dp0OsAFc",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Wish%20Happiness%201900x950px.jpg?itok=dp0OsAFc",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Wish%20Happiness%201900x950px.jpg?itok=fwvqlDjO",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Wish%20Happiness%201900x950px.jpg?itok=9FQKPWH5",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Wish%20Happiness%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -1663,32 +1288,27 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Mystery%20Gateau_Resized.jpg?itok=HM33KYut",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Mystery%20Gateau_Resized.jpg?itok=HM33KYut",
           "width": 317,
-          "height": 150
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Mystery%20Gateau_Resized.jpg?itok=o9AQrc9r",
-          "width": 640,
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Mystery%20Gateau_Resized.jpg?itok=o9AQrc9r",
+          "width": 680,
           "height": 303
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Mystery%20Gateau_Resized.jpg?itok=c_ZP9754",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Mystery%20Gateau_Resized.jpg?itok=c_ZP9754",
           "width": 960,
           "height": 455
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Mystery%20Gateau_Resized.jpg?itok=9VbdThDX",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_1280x608/public/Mystery%20Gateau_Resized.jpg?itok=9VbdThDX",
           "width": 1280,
           "height": 606
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Mystery%20Gateau_Resized.jpg?itok=OpwvmuvD",
-          "width": 1600,
-          "height": 758
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Mystery%20Gateau_Resized.jpg",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_1900x900/public/Mystery%20Gateau_Resized.jpg",
           "width": 1900,
           "height": 900
         }
@@ -1729,34 +1349,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Wobblees%201900x950px.jpg?itok=hFUg14uv",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Wobblees%201900x950px.jpg?itok=hFUg14uv",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Wobblees%201900x950px.jpg?itok=k40wzAeD",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Wobblees%201900x950px.jpg?itok=k40wzAeD",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Wobblees%201900x950px.jpg?itok=Uqk6aUIp",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Wobblees%201900x950px.jpg?itok=Uqk6aUIp",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Wobblees%201900x950px.jpg?itok=mmNekpgm",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Wobblees%201900x950px.jpg?itok=VB-YF-SZ",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Wobblees%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -1795,34 +1400,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Made%20Of%20This%201900x950px.jpg?itok=DoZR_gR8",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Made%20Of%20This%201900x950px.jpg?itok=DoZR_gR8",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Made%20Of%20This%201900x950px.jpg?itok=DcBhOfJ0",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Made%20Of%20This%201900x950px.jpg?itok=DcBhOfJ0",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Made%20Of%20This%201900x950px.jpg?itok=BKIGlO4x",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Made%20Of%20This%201900x950px.jpg?itok=BKIGlO4x",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Made%20Of%20This%201900x950px.jpg?itok=NpJ4Upsv",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Made%20Of%20This%201900x950px.jpg?itok=3abdk5qv",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Made%20Of%20This%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -1861,34 +1451,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/The%20Nauyilus%20Forest%201900x950px.jpg?itok=OTra9XWv",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/The%20Nauyilus%20Forest%201900x950px.jpg?itok=OTra9XWv",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/The%20Nauyilus%20Forest%201900x950px.jpg?itok=XGBGQV-f",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/The%20Nauyilus%20Forest%201900x950px.jpg?itok=XGBGQV-f",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/The%20Nauyilus%20Forest%201900x950px.jpg?itok=bYNuSN_x",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/The%20Nauyilus%20Forest%201900x950px.jpg?itok=bYNuSN_x",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/The%20Nauyilus%20Forest%201900x950px.jpg?itok=O2H27IPp",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/The%20Nauyilus%20Forest%201900x950px.jpg?itok=KYbI2GQ0",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/The%20Nauyilus%20Forest%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -1927,34 +1502,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/He%27eNalu%201900x950px.jpg?itok=eJTqzF8r",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/He%27eNalu%201900x950px.jpg?itok=eJTqzF8r",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/He%27eNalu%201900x950px.jpg?itok=se2LT9gg",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/He%27eNalu%201900x950px.jpg?itok=se2LT9gg",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/He%27eNalu%201900x950px.jpg?itok=Ser0j9SB",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/He%27eNalu%201900x950px.jpg?itok=Ser0j9SB",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/He%27eNalu%201900x950px.jpg?itok=jnXkwmVU",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/He%27eNalu%201900x950px.jpg?itok=2znWK7WU",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/He%27eNalu%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -1993,34 +1553,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Astral%201900x950px.jpg?itok=3rJAFT3f",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Astral%201900x950px.jpg?itok=3rJAFT3f",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Astral%201900x950px.jpg?itok=WsudJ1wo",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Astral%201900x950px.jpg?itok=WsudJ1wo",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Astral%201900x950px.jpg?itok=LZN3dML6",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Astral%201900x950px.jpg?itok=LZN3dML6",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Astral%201900x950px.jpg?itok=U9W8sANO",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Astral%201900x950px.jpg?itok=a6vjKDjD",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Astral%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -2059,34 +1604,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Fragmented%201900x950.jpg?itok=NCjnZKD3",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Fragmented%201900x950.jpg?itok=NCjnZKD3",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Fragmented%201900x950.jpg?itok=7Ik0-VXQ",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Fragmented%201900x950.jpg?itok=7Ik0-VXQ",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Fragmented%201900x950.jpg?itok=YVv8Huoc",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Fragmented%201900x950.jpg?itok=YVv8Huoc",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Fragmented%201900x950.jpg?itok=BAI4Nbtb",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Fragmented%201900x950.jpg?itok=oRKX8nZ6",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Fragmented%201900x950.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -2125,34 +1655,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Light%20Houses%201900x950px.jpg?itok=ipwUwVa1",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Light%20Houses%201900x950px.jpg?itok=ipwUwVa1",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Light%20Houses%201900x950px.jpg?itok=AyXbYVFt",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Light%20Houses%201900x950px.jpg?itok=AyXbYVFt",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Light%20Houses%201900x950px.jpg?itok=dCrf7l-w",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Light%20Houses%201900x950px.jpg?itok=dCrf7l-w",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Light%20Houses%201900x950px.jpg?itok=sQn-Nx3g",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Light%20Houses%201900x950px.jpg?itok=Iy20f691",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Light%20Houses%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -2191,34 +1706,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Focus%201900x950px.jpg?itok=sepxYYyu",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Focus%201900x950px.jpg?itok=sepxYYyu",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Focus%201900x950px.jpg?itok=03o1TOzC",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Focus%201900x950px.jpg?itok=03o1TOzC",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Focus%201900x950px.jpg?itok=taeLFqB8",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Focus%201900x950px.jpg?itok=taeLFqB8",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Focus%201900x950px.jpg?itok=oJz9HwO_",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Focus%201900x950px.jpg?itok=cBM4DLTf",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Focus%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -2257,34 +1757,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Oasis%201900x950px.jpg?itok=AiQQK1Hd",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Oasis%201900x950px.jpg?itok=AiQQK1Hd",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Oasis%201900x950px.jpg?itok=wfh4OOMM",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Oasis%201900x950px.jpg?itok=wfh4OOMM",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Oasis%201900x950px.jpg?itok=epPOgnRT",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Oasis%201900x950px.jpg?itok=epPOgnRT",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Oasis%201900x950px.jpg?itok=stQe8-UK",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Oasis%201900x950px.jpg?itok=HWrj3eqX",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Oasis%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -2323,34 +1808,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Midnight%20Moon%201900x950px.jpg?itok=40rAGCMp",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Midnight%20Moon%201900x950px.jpg?itok=40rAGCMp",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Midnight%20Moon%201900x950px.jpg?itok=T3LWKcha",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Midnight%20Moon%201900x950px.jpg?itok=T3LWKcha",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Midnight%20Moon%201900x950px.jpg?itok=iss6BXyb",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Midnight%20Moon%201900x950px.jpg?itok=iss6BXyb",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Midnight%20Moon%201900x950px.jpg?itok=Fr8MZDPo",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Midnight%20Moon%201900x950px.jpg?itok=FAXy53eu",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Midnight%20Moon%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -2389,34 +1859,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Visible%20Dynamics.jpg?itok=RdWD9GCF",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Visible%20Dynamics.jpg?itok=RdWD9GCF",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Visible%20Dynamics.jpg?itok=Fh4YuLZI",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Visible%20Dynamics.jpg?itok=Fh4YuLZI",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Visible%20Dynamics.jpg?itok=JRc20P9e",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Visible%20Dynamics.jpg?itok=JRc20P9e",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Visible%20Dynamics.jpg?itok=r0olbW2b",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Visible%20Dynamics.jpg?itok=eYYEIK_f",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Visible%20Dynamics.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -2455,34 +1910,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Impression%201900x950px.jpg?itok=-XdgNn9A",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Impression%201900x950px.jpg?itok=-XdgNn9A",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Impression%201900x950px.jpg?itok=i7VriY6e",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Impression%201900x950px.jpg?itok=i7VriY6e",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Impression%201900x950px.jpg?itok=Rz8Yvcx9",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Impression%201900x950px.jpg?itok=Rz8Yvcx9",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Impression%201900x950px.jpg?itok=eO6_1tSw",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Impression%201900x950px.jpg?itok=HUOYPy4v",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Impression%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -2521,34 +1961,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Come%20Fly%20With%20Me%201900x950px.jpg?itok=FUt27oFk",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Come%20Fly%20With%20Me%201900x950px.jpg?itok=FUt27oFk",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Come%20Fly%20With%20Me%201900x950px.jpg?itok=sgZqVFp0",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Come%20Fly%20With%20Me%201900x950px.jpg?itok=sgZqVFp0",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Come%20Fly%20With%20Me%201900x950px.jpg?itok=U5AdG4DF",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Come%20Fly%20With%20Me%201900x950px.jpg?itok=U5AdG4DF",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Come%20Fly%20With%20Me%201900x950px.jpg?itok=eGLXNWFO",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Come%20Fly%20With%20Me%201900x950px.jpg?itok=JEuRQV4c",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Come%20Fly%20With%20Me%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -2587,34 +2012,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/The%20Space%20Arena%201900x950px.jpg?itok=Vrx2ZGdq",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/The%20Space%20Arena%201900x950px.jpg?itok=Vrx2ZGdq",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/The%20Space%20Arena%201900x950px.jpg?itok=gClRGVj7",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/The%20Space%20Arena%201900x950px.jpg?itok=gClRGVj7",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/The%20Space%20Arena%201900x950px.jpg?itok=ExPLjEiY",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/The%20Space%20Arena%201900x950px.jpg?itok=ExPLjEiY",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/The%20Space%20Arena%201900x950px.jpg?itok=kNZ9XqTZ",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/The%20Space%20Arena%201900x950px.jpg?itok=wcyP_Olt",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/The%20Space%20Arena%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -2653,34 +2063,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/The%20Bower%201900x950px.jpg?itok=9YjxU8_O",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/The%20Bower%201900x950px.jpg?itok=9YjxU8_O",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/The%20Bower%201900x950px.jpg?itok=BfsrR1_A",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/The%20Bower%201900x950px.jpg?itok=BfsrR1_A",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/The%20Bower%201900x950px.jpg?itok=mRE2cYHu",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/The%20Bower%201900x950px.jpg?itok=mRE2cYHu",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/The%20Bower%201900x950px.jpg?itok=mIYlF6r_",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/The%20Bower%201900x950px.jpg?itok=1Msd32Dq",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/The%20Bower%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -2719,34 +2114,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Peacock%201900x950px.jpg?itok=8S85yOpg",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Peacock%201900x950px.jpg?itok=8S85yOpg",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Peacock%201900x950px.jpg?itok=Kr2DPUz-",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Peacock%201900x950px.jpg?itok=Kr2DPUz-",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Peacock%201900x950px.jpg?itok=L1Wend8w",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Peacock%201900x950px.jpg?itok=L1Wend8w",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Peacock%201900x950px.jpg?itok=FVBbmQ_I",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Peacock%201900x950px.jpg?itok=tmXwGyWO",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Peacock%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -2785,34 +2165,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Activated%201900x950px.jpg?itok=KtnLSXPd",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Activated%201900x950px.jpg?itok=KtnLSXPd",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Activated%201900x950px.jpg?itok=IX1kFXyD",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Activated%201900x950px.jpg?itok=IX1kFXyD",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Activated%201900x950px.jpg?itok=EkhSA5Qe",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Activated%201900x950px.jpg?itok=EkhSA5Qe",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Activated%201900x950px.jpg?itok=Pxvxcelo",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Activated%201900x950px.jpg?itok=Al647U6p",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Activated%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -2851,34 +2216,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/A%20Little%20Birdie%20Told%20Me%201900x950px.jpg?itok=DHYG7erU",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/A%20Little%20Birdie%20Told%20Me%201900x950px.jpg?itok=DHYG7erU",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/A%20Little%20Birdie%20Told%20Me%201900x950px.jpg?itok=F3scWv_0",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/A%20Little%20Birdie%20Told%20Me%201900x950px.jpg?itok=F3scWv_0",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/A%20Little%20Birdie%20Told%20Me%201900x950px.jpg?itok=nAaATbQP",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/A%20Little%20Birdie%20Told%20Me%201900x950px.jpg?itok=nAaATbQP",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/A%20Little%20Birdie%20Told%20Me%201900x950px.jpg?itok=gY4t16kU",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/A%20Little%20Birdie%20Told%20Me%201900x950px.jpg?itok=Yr9Q7KRe",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/A%20Little%20Birdie%20Told%20Me%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -2917,34 +2267,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Chrysalis%201900x950px.jpg?itok=Psx-VoZ2",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Chrysalis%201900x950px.jpg?itok=Psx-VoZ2",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Chrysalis%201900x950px.jpg?itok=IgmLJU1O",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Chrysalis%201900x950px.jpg?itok=IgmLJU1O",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Chrysalis%201900x950px.jpg?itok=KlwL06Zn",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Chrysalis%201900x950px.jpg?itok=KlwL06Zn",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Chrysalis%201900x950px.jpg?itok=LzB2xGMU",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Chrysalis%201900x950px.jpg?itok=l-3rX3Hb",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Chrysalis%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -2983,34 +2318,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Luminous%20Flight%201900x950px.jpg?itok=W7TeFrYt",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Luminous%20Flight%201900x950px.jpg?itok=W7TeFrYt",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Luminous%20Flight%201900x950px.jpg?itok=fsMrNRXu",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Luminous%20Flight%201900x950px.jpg?itok=fsMrNRXu",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Luminous%20Flight%201900x950px.jpg?itok=yCcpMzE_",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Luminous%20Flight%201900x950px.jpg?itok=yCcpMzE_",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Luminous%20Flight%201900x950px.jpg?itok=jpuN9wN4",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Luminous%20Flight%201900x950px.jpg?itok=j_p8OQhb",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Luminous%20Flight%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -3049,34 +2369,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/1000%20Cranes%201900x950px.jpg?itok=JycoZo8m",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/1000%20Cranes%201900x950px.jpg?itok=JycoZo8m",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/1000%20Cranes%201900x950px.jpg?itok=WawKwP53",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/1000%20Cranes%201900x950px.jpg?itok=WawKwP53",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/1000%20Cranes%201900x950px.jpg?itok=fV25NKh2",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/1000%20Cranes%201900x950px.jpg?itok=fV25NKh2",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/1000%20Cranes%201900x950px.jpg?itok=uGhH1WEn",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/1000%20Cranes%201900x950px.jpg?itok=LRDCAmLB",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/1000%20Cranes%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -3115,27 +2420,27 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Blue%20Planet%20II%20roof%20projection%200932.jpg?itok=8ma8z6jD",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Blue%20Planet%20II%20roof%20projection%200932.jpg?itok=8ma8z6jD",
           "width": 225,
-          "height": 150
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Blue%20Planet%20II%20roof%20projection%200932.jpg?itok=PuS49U0m",
-          "width": 640,
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Blue%20Planet%20II%20roof%20projection%200932.jpg?itok=PuS49U0m",
+          "width": 680,
           "height": 427
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Blue%20Planet%20II%20roof%20projection%200932.jpg?itok=LnfeACEv",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Blue%20Planet%20II%20roof%20projection%200932.jpg?itok=LnfeACEv",
           "width": 960,
-          "height": 640
+          "height": 608
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Blue%20Planet%20II%20roof%20projection%200932.jpg?itok=FYMwcBI-",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_1280x608/public/Blue%20Planet%20II%20roof%20projection%200932.jpg?itok=FYMwcBI-",
           "width": 1280,
           "height": 853
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Blue%20Planet%20II%20roof%20projection%200932.jpg?itok=SGT6uWUG",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_1600x758/public/Blue%20Planet%20II%20roof%20projection%200932.jpg?itok=SGT6uWUG",
           "width": 1600,
           "height": 1067
         },
@@ -3155,7 +2460,7 @@
           "height": 2133
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/Blue%20Planet%20II%20roof%20projection%200932.jpg",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_1900x900/public/Blue%20Planet%20II%20roof%20projection%200932.jpg",
           "width": 3543,
           "height": 2362
         }
@@ -3193,34 +2498,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Rejuvenate%201900x950px.jpg?itok=l6Ntodf4",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Rejuvenate%201900x950px.jpg?itok=l6Ntodf4",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Rejuvenate%201900x950px.jpg?itok=Q3WGjpI9",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Rejuvenate%201900x950px.jpg?itok=Q3WGjpI9",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Rejuvenate%201900x950px.jpg?itok=MBmpyuYl",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Rejuvenate%201900x950px.jpg?itok=MBmpyuYl",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Rejuvenate%201900x950px.jpg?itok=lfzSUJf8",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Rejuvenate%201900x950px.jpg?itok=XZa6AqlN",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Rejuvenate%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,
@@ -3259,34 +2549,19 @@
     "image": {
       "sizes": [
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/height_150/public/Square%20Fugue%201900x950px.jpg?itok=ngo33YLd",
-          "width": 300,
-          "height": 150
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_317x150/public/Square%20Fugue%201900x950px.jpg?itok=ngo33YLd",
+          "width": 340,
+          "height": 194
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_640/public/Square%20Fugue%201900x950px.jpg?itok=ORlL_sum",
-          "width": 640,
-          "height": 320
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_640x303/public/Square%20Fugue%201900x950px.jpg?itok=ORlL_sum",
+          "width": 680,
+          "height": 322
         },
         {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_960/public/Square%20Fugue%201900x950px.jpg?itok=n32tFcD4",
+          "url": "https://www.vividsydney.com/sites/default/files/styles/hero_image_960x455/public/Square%20Fugue%201900x950px.jpg?itok=n32tFcD4",
           "width": 960,
-          "height": 480
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1280/public/Square%20Fugue%201900x950px.jpg?itok=6nCsPwYO",
-          "width": 1280,
-          "height": 640
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/styles/responsive_banner_1600/public/Square%20Fugue%201900x950px.jpg?itok=VABkKJMn",
-          "width": 1600,
-          "height": 800
-        },
-        {
-          "url": "https://www.vividsydney.com/sites/default/files/Square%20Fugue%201900x950px.jpg",
-          "width": 1900,
-          "height": 950
+          "height": 455
         }
       ],
       "ratio": 2,

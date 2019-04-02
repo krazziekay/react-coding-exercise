@@ -95,7 +95,7 @@ async function render (req, { clientStats, serverStats }) {
           '<head>' +
             '<meta charset="utf-8">' +
             '<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">' +
-            `<title>DNSW React Coding Exercise</title>` +
+            `<title>Nightjar React Coding Exercise</title>` +
             `<meta name="theme-color" content="${theme.colors.primary}">` +
             `<meta name="msapplication-TileColor" content="${theme.colors.primary}">` +
             // A referrer will be sent for same-site origins, but cross-origin requests will contain no referrer
