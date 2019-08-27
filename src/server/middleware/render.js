@@ -11,7 +11,7 @@ import stringifyForScriptTag from 'htmlescape'
 import escapeAttr from 'escape-html'
 import compact from 'lodash/compact'
 import { TIDS } from '../../eventTypes'
-import { eventTypeFilterChangedCreator } from '../../actions'
+import { eventTypeFilterChangedCreator, errorCaught } from '../../actions'
 
 function getScripts (clientStats) {
   const entryNames = Array.from(Object.keys(clientStats.entrypoints))
@@ -67,6 +67,8 @@ function dispatchRouteFilters (store, req) {
   const eventTypeId = TIDS[compact(req.path.split('/'))[0]]
   if (eventTypeId) {
     store.dispatch(eventTypeFilterChangedCreator(eventTypeId))
+  } else {
+    store.dispatch(errorCaught())
   }
 }
 

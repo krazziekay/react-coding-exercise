@@ -7,14 +7,25 @@ import Icon from './Icon'
 import titleIcon from '../icons/vivid-angle-top-left.svg'
 import theme from '../style/theme'
 import Event from './Event'
+// First way to import
+import { ClipLoader } from 'react-spinners'
+
+const Loader = ({ className }) => <div className={className}>
+  <ClipLoader
+    sizeUnit={'px'}
+    size={150}
+    color={'#123abc'}
+  />
+</div>
 
 const Events = ({ classes, ready, events }) => (
   <div className={classes.container}>
     <h3 className={classes.title}>
       <Icon className={classes.titleIcon} symbol={titleIcon} />
-      Results
+      Results: {events.length ? events.length : 'no'} events found
     </h3>
-    {!ready && <p>Loading...</p>}
+    <div>{ events.error }</div>
+    {!ready && <Loader className={classes.loader} />}
     {ready && (
       <div className={classes.tilesWrapper}>
         <div className={classes.tiles}>
@@ -73,6 +84,13 @@ export default compose(
       '@media (min-width: 1200px)': {
         width: `calc(${100 / 3}% - ${theme.gutter}px)`
       }
+    },
+    // CSS for loader
+    loader: {
+      position: 'fixed',
+      top: '50%',
+      left: '50%',
+      transform: 'translate(-50%, -50%)'
     }
   })
 )(Events)
