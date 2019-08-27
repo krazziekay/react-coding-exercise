@@ -1,5 +1,4 @@
 export const REHYDRATED = 'REHYDRATED'
 export * from './events'
-export * from './errors'
 export * from './filters'
 export * from './favourites'

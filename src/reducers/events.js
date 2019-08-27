@@ -1,5 +1,5 @@
 import { ActionType } from 'redux-promise-middleware'
-import { FETCH_EVENTS_TYPE, ERROR_CAUGHT } from '../actions'
+import { FETCH_EVENTS_TYPE } from '../actions'
 
 const initialState = {
   busy: false,
@@ -24,13 +24,8 @@ const reducer = (state = initialState, action) => {
       return {
         ...state,
         busy: false,
-        error: action.payload
-      }
-    case ERROR_CAUGHT:
-      return {
-        ...state,
-        busy: false,
-        error: false
+        error: true,
+        events: action
       }
     default:
       return state

@@ -67,8 +67,6 @@ function dispatchRouteFilters (store, req) {
   const eventTypeId = TIDS[compact(req.path.split('/'))[0]]
   if (eventTypeId) {
     store.dispatch(eventTypeFilterChangedCreator(eventTypeId))
-  } else {
-    store.dispatch(errorCaught())
   }
 }
 
