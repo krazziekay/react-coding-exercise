@@ -24,7 +24,7 @@ const popupWindowProps = url => ({
   }
 })
 
-const ShareButtons = ({ children, classes, className, url, title, isFavourited, toggleFavourited }) => {
+const ShareButtons = ({ children, classes, className, url, title, isFavourited, toggleFavourited, id }) => {
   const social = [{
     ...popupWindowProps(`https://facebook.com/sharer.php?u=${encodeURIComponent(url)}&t=${encodeURIComponent(title)}`),
     icon: facebookIcon,
@@ -34,7 +34,6 @@ const ShareButtons = ({ children, classes, className, url, title, isFavourited, 
     icon: twitterIcon,
     text: 'Twitter'
   }]
-
   return <div className={className}>
     {map(social, ({ url, icon, text, onClick }) =>
       <a key={text} className={classes.socialLink} href={url} target='_blank' rel='noopener noreferrer' onClick={onClick}>
@@ -42,7 +41,7 @@ const ShareButtons = ({ children, classes, className, url, title, isFavourited, 
         <span className='sr-only'>{text}</span>
       </a>
     )}
-    <button className={classNames(classes.socialLink, classes.favouriteButton)} type='button' onClick={toggleFavourited}>
+    <button className={classNames(classes.socialLink, classes.favouriteButton)} type='button' onClick={() => toggleFavourited(id)}>
       <span className={classNames(classes.favouriteIconHolder, isFavourited && classes.favouritedIconHolder, !isFavourited && classes.unfavouritedIconHolder)}>
         <Icon className={classNames(classes.favouriteIcon, classes.fullHeartIcon)} symbol={heartIcon} />
         <Icon className={classNames(classes.favouriteIcon, classes.emptyHeartIcon)} symbol={emptyHeartIcon} />
@@ -58,9 +57,9 @@ function mapStateToProps (state, { id }) {
   }
 }
 
-function mapDispatchToProps (dispatch, { id }) {
+function mapDispatchToProps (dispatch) {
   return {
-    toggleFavourited: () => dispatch(toggleFavouriteActionCreator(id))
+    toggleFavourited: id => dispatch(toggleFavouriteActionCreator(id))
   }
 }
 

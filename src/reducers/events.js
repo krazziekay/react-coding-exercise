@@ -24,8 +24,7 @@ const reducer = (state = initialState, action) => {
       return {
         ...state,
         busy: false,
-        error: true,
-        events: action
+        error: true
       }
     default:
       return state

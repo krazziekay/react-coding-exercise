@@ -7,7 +7,6 @@ import Icon from './Icon'
 import titleIcon from '../icons/vivid-angle-top-left.svg'
 import theme from '../style/theme'
 import Event from './Event'
-// First way to import
 import { ClipLoader } from 'react-spinners'
 
 /**
@@ -89,7 +88,6 @@ export default compose(
         justifyContent: 'flex-start'
       }
     },
-
     tile: {
       margin: [0, 'auto', theme.gutter],
       maxWidth: theme.maxTileWidth,
