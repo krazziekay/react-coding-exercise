@@ -55,7 +55,6 @@ export default store => next => action => {
   const ret = next(action)
   const state = store.getState()
   const apiUrl = getFavouritesApiUrl(state)
-  console.log('c ', action)
   switch (action.type) {
     case FETCH_FAVOURITES_TYPE:
       store.dispatch(fetchFavouritesActionCreator(fetchFavourites(apiUrl)))
