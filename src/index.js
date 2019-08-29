@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom'
 import { Provider as ReduxProvider } from 'react-redux'
 import { JssProvider } from 'react-jss'
 import createStore from './createStore'
-import { REHYDRATED } from './actions'
+import { FETCH_FAVOURITES_TYPE, REHYDRATED } from './actions'
 import App from './components/App'
 import * as serviceWorker from './serviceWorker'
 
@@ -34,6 +34,7 @@ ReactDOM.hydrate(render(App), rootEl, () => {
     style.parentNode.removeChild(style)
   }
   store.dispatch({ type: REHYDRATED })
+  store.dispatch({ type: FETCH_FAVOURITES_TYPE })
 })
 
 if (module.hot) {

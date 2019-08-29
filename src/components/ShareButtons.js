@@ -24,6 +24,20 @@ const popupWindowProps = url => ({
   }
 })
 
+/**
+ * Function to toggle Favourites
+ * @param id
+ * @param isFavourited
+ * @param toggleFavourited
+ */
+const favourite = (id, isFavourited, toggleFavourited) => {
+  if (isFavourited) {
+    toggleFavourited(id, 'DELETE')
+  } else {
+    toggleFavourited(id, 'PUT')
+  }
+}
+
 const ShareButtons = ({ children, classes, className, url, title, isFavourited, toggleFavourited, id }) => {
   const social = [{
     ...popupWindowProps(`https://facebook.com/sharer.php?u=${encodeURIComponent(url)}&t=${encodeURIComponent(title)}`),
@@ -41,7 +55,7 @@ const ShareButtons = ({ children, classes, className, url, title, isFavourited, 
         <span className='sr-only'>{text}</span>
       </a>
     )}
-    <button className={classNames(classes.socialLink, classes.favouriteButton)} type='button' onClick={() => toggleFavourited(id)}>
+    <button className={classNames(classes.socialLink, classes.favouriteButton)} type='button' onClick={() => favourite(id, isFavourited, toggleFavourited)}>
       <span className={classNames(classes.favouriteIconHolder, isFavourited && classes.favouritedIconHolder, !isFavourited && classes.unfavouritedIconHolder)}>
         <Icon className={classNames(classes.favouriteIcon, classes.fullHeartIcon)} symbol={heartIcon} />
         <Icon className={classNames(classes.favouriteIcon, classes.emptyHeartIcon)} symbol={emptyHeartIcon} />
@@ -59,7 +73,7 @@ function mapStateToProps (state, { id }) {
 
 function mapDispatchToProps (dispatch) {
   return {
-    toggleFavourited: id => dispatch(toggleFavouriteActionCreator(id))
+    toggleFavourited: (id, method) => dispatch(toggleFavouriteActionCreator(id, method))
   }
 }
 
@@ -67,7 +81,6 @@ const em = px => round(px / 16) + 'em'
 
 export default compose(
   connect(mapStateToProps, mapDispatchToProps),
-
   injectSheet({
     socialLink: {
       color: theme.colors.black,
